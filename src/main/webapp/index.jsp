@@ -1130,7 +1130,7 @@
                 </button>
                 <a class="brand" href="#">
                     <i class="fas fa-store-alt"></i>
-                    <span>Aravindh<span class="accent">Shop</span></span>
+                    <span>Harshit<span class="accent">Shop</span></span>
                 </a>
             </div>
 
