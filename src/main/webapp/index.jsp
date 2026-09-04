@@ -912,7 +912,7 @@
                 </button>
                 <a class="brand" href="#">
                     <i class="fas fa-store-alt"></i>
-                    <span>Aravindh Sai Mummoju<span class="accent">Shop</span></span>
+                    <span>Aravindh Sai<span class="accent">Shop</span></span>
                 </a>
             </div>
 
